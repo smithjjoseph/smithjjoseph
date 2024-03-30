@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @smithjjoseph
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: impossible
+- 👋 Hello, I’m Joseph J Smith (@smithjjoseph)
+- 🎓 I’m currently a 3rd year BEng Computer and Electonic Engineering student at University of York
+- 🧠 I'm interested in BCIs, CMOS design and FPGA
 
 <!---
-smithjjoseph/smithjjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+smithjjoseph/smithjjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
 --->
